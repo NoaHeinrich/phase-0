@@ -16,3 +16,6 @@
 ##rmdir – deletes a directory
 ##rm – deletes a file
 ##help – or man – tells you the function of a command
+
+###To create a new repository, first sign up for gitHub. Then, go to the plus-sign in the upper righthand corner, and click Create New Repository. There are several options afterwards, like who can see it, and what licenses you want to include. Then click Create Repository, and you're done. To fork a repository, go to the page of the repository you wish to fork, and hit the fork button. Then, click your profile, or the profile you wish to fork to. Finally, to clone a repository, go to the command line (with git installed) and type in “git clone <url of repository>”. It will clone the repository to the directory you are currently in. Forking a new repository is good for collaboration, as it will let you see another's code, and edit it without affecting their own work.
+###Setting up git and gitHub was simple. I simply followed the instructions, and it all worked out. The actual struggle I had was on the command line. After I cloned the repositories, I tried to delete them, as instructed. I used rmdir -p, but it told me that the directory was full. I know the directory is full, that's why I used -p, but it didn't seem to matter. So I do have the repositories, which is the important thing, but I'm not sure why I can't delete them.
