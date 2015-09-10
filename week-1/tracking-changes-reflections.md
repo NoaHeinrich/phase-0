@@ -1,0 +1,8 @@
+#How does tracking and adding changes make developers' lives easier? - It makes it easier to see what has been changed, and for others to see what you have changed.
+#What is a commit? - A commit is a checkpoint, a way of pointing to what you've changed for others to see.
+#What are the best practices for commit messages? - Use imperative voice, and keep it relatively short.
+#What does the HEAD^ argument mean? - HEAD^ refers to the previous commit.
+#What are the 3 stages of a git change and how do you move a file from one stage to the other? - When you save the files, as in sublime, they are in the working stage. Type git add <filename> to put it in the staging area. Finally, type git commit <filename> to commit it.
+#Write a handy cheatsheet of the commands you need to commit your changes? -  git add: adds changes to the stage. git commmit: commits the changes. git pull fetches changes from gitHub and merges them git push origin (branch-name) sends the changes you made to gitHub
+#What is a pull request and how do you create and merge one? Go to github - A pull request is a request to merge a feature branch with the master. First, go to gitHub, and navigate to the feature branch in your repository. Click "pull request". At the next page, make sure the base repository, base, and fork are correct. Click "create pull request." On the next page, you can merge the branch by clicking "merge pull request"
+#Why are pull requests preferred when working with teams? - Pull requests are preferable because it allows your teammates to read your proposed changes before allowing you to merge them with the master branch
