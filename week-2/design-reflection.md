@@ -1,4 +1,4 @@
-![Alt text](/phase-0/week-2/imgs/site-map.png)
+![Alt text](https://github.com/NoahHeinrich/phase-0/blob/master/week-2/imgs/site-map.png?raw=true)
 What are the 6 Phases of Web Design?
 The six phases of Web Design are Information Gathering, Planning, Design, Development, Testing and Delivery, and Maintenance. In other words, you must first figure out what sort of website you hope to make. Then you must make a map of how users will navigate the website. Then you design the look and feel of your website, and how users will interact with it. Then you do the actual coding to make your design into reality. Next you create multiple versions of the site, to make sure it does what you want and functions across multiple platforms. Finally, you put systems in place to keep the site running, which also allow you to edit the website as you see fit in the future.
 
