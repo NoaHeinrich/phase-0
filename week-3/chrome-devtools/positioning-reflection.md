@@ -1,12 +1,12 @@
-![Release 1](/./imgs/Release3.1.png)
-![Release 2](/./imgs/Release3.2.png)
-![Release 3](/./imgs/Release3.3.png)
-![Release 4](/./imgs/Release3.4.png)
-![Release 5](/./imgs/Release3.5.png)
-![Release 6](/./imgs/Release3.6.png)
-![Release 7](/./imgs/Release3.7.png)
-![Release 8](/./imgs/Release3.8.png)
-![Release 9](/./imgs/Release3.9.png)
+![Release 1](/imgs/Release3.1.png)
+![Release 2](/imgs/Release3.2.png)
+![Release 3](/imgs/Release3.3.png)
+![Release 4](/imgs/Release3.4.png)
+![Release 5](/imgs/Release3.5.png)
+![Release 6](/imgs/Release3.6.png)
+![Release 7](/imgs/Release3.7.png)
+![Release 8](/imgs/Release3.8.png)
+![Release 9](/imgs/Release3.9.png)
 
 
 
