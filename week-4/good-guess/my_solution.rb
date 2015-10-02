@@ -6,5 +6,5 @@ def good_guess?(x)
     return true
   else
     return false
+  end
 end
-
